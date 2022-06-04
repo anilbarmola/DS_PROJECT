@@ -1,2 +1,2 @@
-# DS_PROJECT
+#Analyzing Amazon Sales data
 wlcome to the project

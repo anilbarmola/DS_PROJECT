@@ -1,2 +1,2 @@
-#Analyzing Amazon Sales data
+# Analyzing Amazon Sales data
 wlcome to the project
